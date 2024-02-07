@@ -1,6 +1,8 @@
 # Bus Schedule App
 The Bus Schedule app displays a list of bus stops and arrival times. Tapping a bus stop on the first screen will display a list of all arrival times for that particular stop.
 
+![Untitled (2)](https://github.com/mostafadelgouda/BusSchedule/assets/56961667/1529e652-7ab6-46d4-9c5e-b10a0ec75495)
+
 ## Features
 - View a list of bus stops
 - View arrival times for each bus stop
